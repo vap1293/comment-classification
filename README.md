@@ -5,4 +5,4 @@
 - Task is to classify the comments as `toxic`, `sever toxic`, `obscene`, `threat`, `insult`, or `identity hate` by predicting the probabilty
 - Project implemented using Python as programming language
 - While implementing, usage of NLTK, pre-processing techniques like lemmatization, TF-IDF vectorization (for feature extraction) to encode categorical variables utilised
-- Jupyter Notebook with .ipynb extension consists of the code implementation 
+- Jupyter Notebook with .ipynb extension consists of the code
